@@ -1,5 +1,3 @@
-create database if not exists agrobalkan;
-
 ------------------
 -- User Role
 ------------------
