@@ -8,3 +8,5 @@ Application features:
 2. Adding new product type
 3. Adding new product
 4. Compare products from same type
+
+Developed with Java Spring Boot
